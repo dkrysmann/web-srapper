@@ -8,5 +8,4 @@ The scrapper is available as a python script and as a Jupyter Notebook.
 
 The analytics part will be availble in a new notebook after some data have been acumulated.
 
-![price distribution][price_model.png]
-
+![alt](price_model.png)
